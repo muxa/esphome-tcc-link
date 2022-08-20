@@ -1,4 +1,4 @@
-# ESPHome Toshiba TCC-Link AC Component
+# ESPHome Toshiba TCC-Link Climate Component
 
 ESPHome component to integrate with Toshiba Air Conditioners via TCC-Link protocol (AB line).
 
